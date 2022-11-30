@@ -1,3 +1,2 @@
-ls -l . .. /boot
 #!/bin/bash
 pwd
