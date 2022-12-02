@@ -1,1 +1,2 @@
-ft
+my first readme
+nice
