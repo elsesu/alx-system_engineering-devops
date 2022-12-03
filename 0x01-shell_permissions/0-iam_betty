@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+#!/bin/bash
+>>>>>>> d4ab150d696d7441ee84f7d77dc42b3a6fa98dcb
 su betty
 =======
 #!/bin/bash
